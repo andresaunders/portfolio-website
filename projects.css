@@ -52,7 +52,10 @@ a:visited{
     flex-direction: column;
 }
 
-
+.hide-project{
+ 
+    display: none;
+}
 
 .projects {
 
