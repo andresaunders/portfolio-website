@@ -311,6 +311,7 @@ h1 {
 
         width: 80%;
         display: flex;
+        max-height: 70%; /* change to make picture fit */
         flex-direction: column;
     }
 
