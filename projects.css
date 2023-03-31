@@ -314,6 +314,11 @@ h1 {
         max-height: 70%; /* change to make picture fit */
         flex-direction: column;
     }
+    
+    .screenshot {
+        
+        max-height: 30vh;
+    } 
 
     .screenshot-links a {
 
